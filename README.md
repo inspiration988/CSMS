@@ -42,7 +42,16 @@ Run composer install
 In root directory run :
 `php artisan serve`
 
-Open url [http://127.0.0.1:8000/api/v1/rate]  in your browser
+Open url [http://127.0.0.1:8000/api/v1/rate]  in postman
+and set as input :
+`
+{
+"rate": { "energy": 0.3, "time": 2, "transaction": 1 },
+"cdr": { "meterStart": 1204307, "timestampStart": "2021-04-05T10:04:00Z", "meterStop": 1215230, "timestampStop":
+"2021-04-05T11:27:00Z" }
+}
+
+`
 
 
 
