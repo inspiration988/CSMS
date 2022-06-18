@@ -38,7 +38,7 @@ Run composer install
 `composer install`
 
 
-##Run API
+## Run API
 In root directory run :
 `php artisan serve`
 
