@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About SCMS
+## About CSMS
 
 A CSMS (charging station management system) such as be.ENERGISED is used to manage charging stations, charging
 processes and customers (so-called eDrivers) amongst other things.
